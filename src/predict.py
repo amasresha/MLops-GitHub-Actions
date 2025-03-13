@@ -1,10 +1,12 @@
 import joblib
 
-#A script to make predictions using the trained model
+
+# A script to make predictions using the trained model
 def predict(input_data):
     # Load model
     model = joblib.load("model.pkl")
     return model.predict(input_data)
+
 
 if __name__ == "__main__":
     # Example input
