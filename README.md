@@ -1,5 +1,7 @@
 # MLops-GitHub-Actions
 
+[![MLops CI/CD Pipeline](https://github.com/amasresha/MLops-GitHub-Actions/actions/workflows/ci-cd.yml/badge.svg)](https://github.com/amasresha/MLops-GitHub-Actions/actions/workflows/ci-cd.yml)
+
 ```markdown
 A project demonstrating an MLOps pipeline using GitHub Actions for Continuous Integration and Continuous Deployment (CI/CD).
 ```
